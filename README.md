@@ -11,6 +11,7 @@ Hoffe euch gefällt dieser kleine Leak und evtl. bekommt ihr noch mehr.
 Viel Spaß damit.
 
 P.S: Das sollen high QUALITY textures sein :D
+Release:https://github.com/DotCrack-TEAM/TEAM-ELAN-TEAMELAN-ADDONS-LEAK/releases
 
 English:
 
@@ -26,3 +27,5 @@ We hope you like this little leak and perhaps in future you'll get more.
 Enjoy.
 
 P.S: Those are supposed to be high QUALTITY textures :D
+
+Release:https://github.com/DotCrack-TEAM/TEAM-ELAN-TEAMELAN-ADDONS-LEAK/releases
